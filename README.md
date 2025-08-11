@@ -1,3 +1,3 @@
 # Expressjs sample app.
 
-A sample expressjs app
+A sample express.js app 
